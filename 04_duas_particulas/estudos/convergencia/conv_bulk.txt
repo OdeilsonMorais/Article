@@ -1,0 +1,18 @@
+== h_bulk=0.35
+Info    : 27108 nodes 175907 elements
+k_eff,xx [W/(m K)]: 0.23461413
+== h_bulk=0.25
+Info    : 33250 nodes 212989 elements
+k_eff,xx [W/(m K)]: 0.23409322
+== h_bulk=0.18
+Info    : 46943 nodes 295537 elements
+k_eff,xx [W/(m K)]: 0.233811
+tempo 20.36 s, memória 854604 KB
+== h_bulk=0.125
+Info    : 85389 nodes 529193 elements
+k_eff,xx [W/(m K)]: 0.23364633
+tempo 107.73 s, memória 1786264 KB
+== h_bulk=0.09
+Info    : 178371 nodes 1098869 elements
+k_eff,xx [W/(m K)]: 0.23354647
+tempo 649.48 s, memória 4985116 KB

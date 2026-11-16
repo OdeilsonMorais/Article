@@ -1,0 +1,6 @@
+== bulk=0.125 int=0.075 lac=0.0125
+Info    : 92267 nodes 575905 elements
+k_eff,xx [W/(m K)]: 0.23360397
+== bulk=0.125 int=0.10 lac=0.00833
+Info    : 132847 nodes 833966 elements
+k_eff,xx [W/(m K)]: 0.23362077

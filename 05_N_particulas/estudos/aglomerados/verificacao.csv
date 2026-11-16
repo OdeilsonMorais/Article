@@ -1,0 +1,2 @@
+configuracao,N,s_R,phi,lado_R,lacuna_imagem_R,R_K,alfa,k_xx,k_yy,k_zz,k_media,k_HJ,desvio_HJ_percent,anisotropia_percent,razao_xx,razao_yy,razao_zz,k3_xx,k3_yy,k3_zz,fora_diagonal_max,nos_nivel_3,tempo_s
+par,2,0.05,0.02442443,7.000000,2.9500,1e-08,0.04,0.21554692,0.21088121,0.21088121,0.21243644,0.21185225,0.2758,2.2125,0.5161,0.5569,,0.21566635,0.21098986,0.21098986,2.86e-06,67723,74.9

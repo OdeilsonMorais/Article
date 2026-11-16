@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "When can nanoparticles lower the thermal conductivity of epoxy? Code and data"
+type: software
+license: MIT
+repository-code: "https://github.com/OdeilsonMorais/Article"
+authors:
+  - family-names: Pinto
+    given-names: Odeilson Morais
+    orcid: "https://orcid.org/0000-0001-9025-743X"
+    affiliation: "São Paulo State University (UNESP)"
+  - family-names: Ferreira
+    given-names: Júlio César Vieira
+    orcid: "https://orcid.org/0009-0000-6698-3909"
+    affiliation: "São Paulo State University (UNESP)"
+  - family-names: Libaneo
+    given-names: Gabriel Augusto
+    affiliation: "São Paulo State University (UNESP)"
+  - family-names: Berengue
+    given-names: Olivia Maria
+    orcid: "https://orcid.org/0000-0002-0919-3289"
+    affiliation: "São Paulo State University (UNESP)"
+keywords:
+  - effective thermal conductivity
+  - Kapitza resistance
+  - finite element method
+  - FEniCSx
+  - hollow particles

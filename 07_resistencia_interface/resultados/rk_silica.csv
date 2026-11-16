@@ -1,0 +1,32 @@
+caso,particula,T_K,rho_epoxi,vL_epoxi,vT_epoxi,R_K_AMM,R_K_DMM
+padrao,SiO₂ amorfa,298.15,1200.0,2600.0,1200.0,5.4677e-09,5.8667e-09
+padrao,SiO₂ amorfa,353.15,1200.0,2600.0,1200.0,5.3823e-09,5.7920e-09
+padrao,SiO₂ quartzo α,298.15,1200.0,2600.0,1200.0,6.5041e-09,6.6765e-09
+padrao,SiO₂ quartzo α,353.15,1200.0,2600.0,1200.0,6.3983e-09,6.5915e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2500.0,1100.0,6.9522e-09,7.5322e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2500.0,1200.0,6.3309e-09,6.2631e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2500.0,1300.0,5.7124e-09,5.3000e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2600.0,1100.0,6.3271e-09,7.3547e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2600.0,1200.0,5.8083e-09,6.1142e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2600.0,1300.0,5.2834e-09,5.1724e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2800.0,1100.0,5.2620e-09,7.0378e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2800.0,1200.0,4.8982e-09,5.8490e-09
+sensibilidade,SiO₂ amorfa,298.15,1150.0,2800.0,1300.0,4.5196e-09,4.9459e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2500.0,1100.0,6.5407e-09,7.2267e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2500.0,1200.0,5.9562e-09,6.0091e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2500.0,1300.0,5.3748e-09,5.0851e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2600.0,1100.0,5.9563e-09,7.0570e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2600.0,1200.0,5.4677e-09,5.8667e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2600.0,1300.0,4.9738e-09,4.9631e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2800.0,1100.0,4.9599e-09,6.7542e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2800.0,1200.0,4.6164e-09,5.6133e-09
+sensibilidade,SiO₂ amorfa,298.15,1200.0,2800.0,1300.0,4.2593e-09,4.7466e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2500.0,1100.0,6.1726e-09,6.9455e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2500.0,1200.0,5.6210e-09,5.7753e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2500.0,1300.0,5.0728e-09,4.8873e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2600.0,1100.0,5.6245e-09,6.7830e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2600.0,1200.0,5.1628e-09,5.6389e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2600.0,1300.0,4.6966e-09,4.7704e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2800.0,1100.0,4.6893e-09,6.4933e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2800.0,1200.0,4.3640e-09,5.3963e-09
+sensibilidade,SiO₂ amorfa,298.15,1250.0,2800.0,1300.0,4.0262e-09,4.5632e-09

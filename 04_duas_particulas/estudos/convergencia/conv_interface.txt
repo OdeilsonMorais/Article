@@ -1,0 +1,18 @@
+== h_int=0.125 h_lac=0.0125
+Info    : 23760 nodes 154430 elements
+k_eff,xx [W/(m K)]: 0.23567857
+Área das interfaces [m²]: 6.2617858e-14
+Salto RMS na interface [K]: 4.7096698e-09
+tempo 11.72 s, memória 526644 KB
+== h_int=0.10 h_lac=0.0125
+Info    : 23660 nodes 153787 elements
+k_eff,xx [W/(m K)]: 0.23589122
+Área das interfaces [m²]: 6.2669917e-14
+Salto RMS na interface [K]: 4.7384283e-09
+tempo 9.06 s, memória 521864 KB
+== h_int=0.075 h_lac=0.0125
+Info    : 25655 nodes 167295 elements
+k_eff,xx [W/(m K)]: 0.23574401
+Área das interfaces [m²]: 6.2731953e-14
+Salto RMS na interface [K]: 4.7108521e-09
+tempo 10.55 s, memória 541628 KB

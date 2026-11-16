@@ -1,0 +1,2 @@
+modo,phi_externo,phi_solido,t_R,r_i_R,R_K,alfa,k_p,k_nucleo,k_xx,razao_aitken,k_teoria_oca,desvio_teoria_percent,k_HJ_macica_mesmo_phi,k_sobre_km,h_interface_R,nos_nivel_3,tempo_s
+mesma_massa,0.07090164,0.03460000,0.200000,0.800000,1e-08,0.04,1.36,0.0069,0.21397130,0.5406,0.21391758,0.0251,0.22626956,1.069857,0.0667,16681,16.0

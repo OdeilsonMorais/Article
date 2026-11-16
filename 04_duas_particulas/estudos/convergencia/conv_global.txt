@@ -1,0 +1,30 @@
+== h_bulk=0.5 h_int=0.10 h_lac=0.0125
+Info    : 23792 nodes 154646 elements
+k_eff,xx [W/(m K)]: 0.23581993
+Área das interfaces [m²]: 6.2669917e-14
+Salto RMS na interface [K]: 4.7266335e-09
+tempo 12.07 s, memória 526512 KB
+== h_bulk=0.5 h_int=0.10 h_lac=0.0125
+Info    : 23792 nodes 154646 elements
+k_eff,xx [W/(m K)]: 0.23581993
+Área das interfaces [m²]: 6.2669917e-14
+Salto RMS na interface [K]: 4.7266335e-09
+tempo 11.13 s, memória 538832 KB
+== h_bulk=0.4 h_int=0.08 h_lac=0.01
+Info    : 45617 nodes 295940 elements
+k_eff,xx [W/(m K)]: 0.2349098
+Área das interfaces [m²]: 6.2734085e-14
+Salto RMS na interface [K]: 4.6157578e-09
+tempo 33.63 s, memória 944440 KB
+== h_bulk=0.32 h_int=0.064 h_lac=0.008
+Info    : 87195 nodes 563097 elements
+k_eff,xx [W/(m K)]: 0.23432483
+Área das interfaces [m²]: 6.2768914e-14
+Salto RMS na interface [K]: 4.5468641e-09
+tempo 119.91 s, memória 1872176 KB
+== h_bulk=0.256 h_int=0.0512 h_lac=0.0064
+Info    : 166874 nodes 1073439 elements
+k_eff,xx [W/(m K)]: 0.23398
+Área das interfaces [m²]: 6.2789926e-14
+Salto RMS na interface [K]: 4.5056797e-09
+tempo 357.95 s, memória 3941544 KB

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*:Zone.Identifier
+*.msh
+*.npz
+*.npy
+*.h5
+*.xdmf
+*.vtu
+*.pvd
+*.bp/
+*.log
+.venv/
